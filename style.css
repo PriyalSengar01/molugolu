@@ -1,0 +1,163 @@
+section{   
+    border: 2px solid black;
+    display:flex;
+    position: sticky;
+    top:0%;
+    flex-flow: row wrap;
+   height:900px;
+   width:1100px;
+   margin: auto;
+   display: block;
+
+}
+#H{
+    color:gold;
+   font-size: 50px;
+   margin: auto;
+   display: block;
+
+}
+H.hover{
+    color:palevioletred;
+}
+#happy{
+    margin: auto;
+    display: block;
+    top:0%;
+}
+#cake{
+    position:absolute;
+    left:25px;
+}
+#cake1{
+    position:absolute;
+    right:50px;
+}
+.card {
+    width: 900px;
+    height: 700px;
+    background: url("./jiju/image4.jpeg") no-repeat;
+   
+}
+.card:hover {
+    background: url("./jiju/image2.jpeg") no-repeat;
+}
+#para{
+    color:white;
+    font-style: bold;
+    text-align:center;
+    font-size: 18px;
+}
+.card1{
+    background: url("./jiju/image1.jpeg") no-repeat;
+    background-color: black;
+}
+#happy{
+    border:2px solid black;
+    border-color: black;
+    background-color: silver;
+    height:100px;
+    margin: auto;
+    display: block;
+    display:flex;
+ 
+    width:1000px;
+}
+#cake2{
+    position:absolute;
+    left:125px;
+}
+#cake3{
+    position:absolute;
+    right:125px;
+}
+#happy1{
+    border:2px solid black;
+    border-color: black;
+    background-color:silver;
+    margin: auto;
+    display: block;
+    display:flex;
+      font-size: 50px;
+      font-weight: 300;
+      text-shadow: 50rem;
+}
+#song{
+    margin: auto;
+    display: block;
+   
+}
+#happy2{
+    border:2px solid black;
+    border-color: black;
+    background-color: black;
+    display:flex;
+}
+#img{
+    border-radius: 50%;
+   
+}
+.card2{
+    background: url("./jiju/image8.jpeg") ;
+    background-color:aqua;
+}
+.card2:hover {
+    background: url("./jiju/image5.jpeg") no-repeat;
+}
+#para1{
+    color:black;
+    font-style: bold;
+    text-align:left;
+    font-size: 30px;
+    font-weight: 100;
+    column-width: 100rem;
+}
+.card3{
+    background: url("./jiju/image9.jpeg") no-repeat;
+    background-color:burlywood;
+}
+.card4{
+    background-color: black;
+}
+.card5{
+    background-color: black;
+}
+#para2{
+    color:white;
+    text-align:center;
+    font-size: 50px;
+    font-weight: 100;
+}
+#gif{
+    margin: auto;
+    display: block;
+}
+#gif1{
+   position: absolute;
+   right:100px;
+    top:100px;
+}
+#gif2{
+    border:2
+    px solid black;
+    position:absolute;
+    right:50px;
+    border-radius: 40%;
+   
+}
+.card4{
+    height:14000px;
+}
+#happy{
+    background: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtXh1xZjYN5gx3qZ1vuIpG3v-gMMVg44nGBQ&usqp=CAU") ;
+}
+#happy2{
+    
+        background: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYzHd5I6w5wWjv7UiXnvaDbf7YzM_Gf602lw&usqp=CAU");
+}
+#golu{
+    font-size: 50px;
+    color:white;
+    margin: auto;
+    display: block;
+}
